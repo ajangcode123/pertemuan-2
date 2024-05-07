@@ -25,3 +25,30 @@
 ```html
 <h1> projek html </h1>
 ```
+
+------------------------------------------------------------
+|                          Laporan Keuangan Bulanan       |
+------------------------------------------------------------
+|                         Bulan: Mei 2024                 |
+------------------------------------------------------------
+|                           Pemasukan      |    Jumlah     |
+------------------------------------------------------------
+| Pendapatan dari layanan cuci             |   $XXXX       |
+| Pendapatan dari layanan setrika          |   $XXXX       |
+| Pendapatan dari dry cleaning             |   $XXXX       |
+| Layanan tambahan lainnya                 |   $XXXX       |
+| Total Pemasukan                          |   $XXXX       |
+------------------------------------------------------------
+|                          Pengeluaran      |    Jumlah     |
+------------------------------------------------------------
+| Biaya deterjen                           |   $XXXX       |
+| Biaya listrik                            |   $XXXX       |
+| Biaya air                                |   $XXXX       |
+| Biaya bahan bakar                        |   $XXXX       |
+| Gaji karyawan                            |   $XXXX       |
+| Sewa tempat usaha                        |   $XXXX       |
+| Biaya operasional lainnya                |   $XXXX       |
+| Total Pengeluaran                        |   $XXXX       |
+------------------------------------------------------------
+|                         Pendapatan Bersih  |   $XXXX       |
+------------------------------------------------------------
